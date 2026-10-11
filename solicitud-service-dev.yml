@@ -1,9 +1,0 @@
-fintech:
-  tasa-interes-base: 0.15
-  monto-maximo-prestamo: 50000.00
-  mensaje-comercial: Servicio de Solicitudes Fintech - Grupo 03
-  comision-desembolso: 50.00
-
-spring:
-  datasource:
-    url: jdbc:postgresql://localhost:5432/fintech_solicitudes_db
